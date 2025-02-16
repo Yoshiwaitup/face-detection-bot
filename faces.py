@@ -28,7 +28,7 @@ app = FastAPI()
 # Подключение к базе данных
 conn = psycopg2.connect(
     dbname="face_db",
-    user="jajabinkis",  # Замените на имя вашего пользователя системы
+    user="пользователь системы",  # Замените на имя вашего пользователя системы
     host="localhost",
     port="5432"
 )
