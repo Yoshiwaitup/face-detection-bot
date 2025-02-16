@@ -82,17 +82,3 @@ face-detection-bot/
 1. Форкните репозиторий
 2. Создайте ветку для новой функции
 3. Отправьте пулл-реквест
-
-## 📝 Лицензия
-
-MIT License
-
-## 👥 Авторы
-
-- Ваше имя
-- Контактная информация
-
-## 📞 Контакты
-
-- Telegram: @your_username
-- Email: your.email@example.com 
