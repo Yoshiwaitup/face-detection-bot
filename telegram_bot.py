@@ -12,7 +12,7 @@ logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
 # Конфигурация
-BOT_TOKEN = "7419597367:AAF1wOt2sH57hBrToIhPbNYB51CxYk9vtW8"
+BOT_TOKEN = "ВАШ ТОКЕН БОТА"
 API_URL = 'http://localhost:8000/detect_faces/'
 
 # Инициализация бота
